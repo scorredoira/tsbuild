@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "noLib": true,
+        "noEmit": true,
+        "noImplicitAny": false,
+        "skipLibCheck": true,
+        "baseUrl": ".",
+        "preserveSymlinks": false,
+        "paths": {
+            "*": [
+                "./vendor/*"
+            ]
+        }
+    }
+}
